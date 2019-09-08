@@ -1,3 +1,19 @@
 ### Installing Python v3
 > **For Windows**,
-> Download it from here [Python 3](https://www.python.org/downloads/)
+> Download it from here [Python 3](https://ww.python.org/downloads/)
+
+### Step 01
+
+![picture](photos/1.png)
+
+### Step 02
+
+![picture](photos/2.png)
+
+### Step 03
+
+![picture](photos/3.png)
+
+### Step 04
+
+![picture](photos/4.png)
