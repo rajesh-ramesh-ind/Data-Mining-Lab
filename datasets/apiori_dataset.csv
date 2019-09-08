@@ -1,0 +1,23 @@
+Item 1,Item 2,Item 3,Item 4,Item 5,Item 6
+Wine,Chips,Bread,Butter,Milk,Apple
+Wine,,Bread,Butter,Milk,
+,,Bread,Butter,Milk,
+Chips,,,,Apple
+Wine,Chips,Bread,Butter,Milk,Apple
+Wine,Chips,,,Milk,
+Wine,Chips,Bread,Butter,,Apple
+Wine,Chips,,,Milk,
+Wine,,Bread,Butter,,Apple
+Wine,,Bread,Butter,Milk,
+,Chips,Bread,Butter,Milk,Apple
+Wine,,,Butter,Milk,Apple
+Wine,Chips,Bread,Butter,Milk,
+Wine,,Bread,,Milk,Apple
+Wine,,Bread,Butter,Milk,Apple
+Wine,Chips,Bread,Butter,Milk,Apple
+,Chips,Bread,Butter,Milk,Apple
+,Chips,,Butter,Milk,Apple
+Wine,Chips,Bread,Butter,Milk,Apple
+Wine,,Bread,Butter,Milk,Apple
+Wine,Chips,Bread,,Milk,Apple
+,Chips,,,,
