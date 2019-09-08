@@ -3,3 +3,9 @@ It contains Data Mining lab experiment's resources such as *procedure, source co
 
 ```txt
 Everybody go through >> ReadME.md << file before going with the experiment
+```
+#### Softwares used in this lab
+> - Talend Studio
+> - Java 8 JDK & JRE
+>  - Rapid Miner
+>  - PyCharm IDE for Python
