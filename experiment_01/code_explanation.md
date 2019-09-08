@@ -20,11 +20,6 @@ for i in range(0, 22):
     records.append([str(store_data.values[i, j]) for j in range(0, 6)])
 ```
 
-#### Building the Apriori model
-```python3
-association_rules = apriori(records, min_support=0.50, min_confidence=0.7, min_lift=1.2, min_length=2)
-```
-
 #### Building the Apriori model and fetching results
 ```python3
 association_rules = apriori(records, min_support=0.50, min_confidence=0.7, min_lift=1.2, min_length=2)
