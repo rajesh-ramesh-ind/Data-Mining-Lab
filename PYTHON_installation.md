@@ -1,7 +1,7 @@
 ### Installing Python v3
 - **For Linux user,**
   - No installation required
-- **For Windows user**,
+- **For Windows user,**
   - Download it from here [Python 3](https://ww.python.org/downloads/)
     - ### Step 01
     
