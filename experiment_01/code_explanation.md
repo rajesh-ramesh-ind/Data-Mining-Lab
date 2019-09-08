@@ -1,4 +1,4 @@
-#### Imporing necessary packages
+#### Importing necessary packages
 ```python3
 import pandas as pd
 from apyori import apriori
