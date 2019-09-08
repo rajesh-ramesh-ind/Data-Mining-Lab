@@ -1,4 +1,4 @@
-**Note:** Setting up environment is a one time process
+`Note:` * Setting up environment is a one time process *
 
 Environment Setup
 > - First install Python 3 of any version and make sure you're installing v3.5+
