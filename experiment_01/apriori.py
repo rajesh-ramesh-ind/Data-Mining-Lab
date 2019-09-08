@@ -2,7 +2,7 @@ from apyori import apriori
 import pandas as pd
 import numpy as np
 
-store_data = pd.read_csv("../datasets/apiori.csv", header=None)
+store_data = pd.read_csv("../datasets/apiori_dataset.csv", header=None)
 print(store_data)
 records = list()
 for i in range(0, 22):
