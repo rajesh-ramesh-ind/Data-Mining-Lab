@@ -2,7 +2,7 @@
 - **For Linux user,**
   - No installation required
 - **For Windows user,**
-  - Download it from here [Python 3](https://ww.python.org/downloads/)
+  - Download it from here [Python 3](https://www.python.org/downloads/)
     - ### Step 01
     
     ![picture](photos/1.png)
